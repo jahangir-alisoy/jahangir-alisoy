@@ -5,7 +5,7 @@
 🚀 Passionate about building scalable and secure backend systems  
 🌱 Continuously improving my skills in Java, Spring Boot, and microservices  
 💬 Feel free to reach out to discuss tech, projects, or collaboration opportunities  
-📧 Email: cahangiralisoy313@gmail.com
+📧 Email: jahangir.alisoy@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.jhngr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahangiraze) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/JahangirAZE)
