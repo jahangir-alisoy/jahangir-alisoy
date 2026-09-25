@@ -2,7 +2,7 @@
 
 😊 Hi, I'm Jahangir Alisoy <br>
 🔧 Middle Backend Developer | Java & Spring Boot Enthusiast <br>
-🏢 Currently working at the International Bank of Azerbaijan <br>
+🏢 Currently working at [the International Bank of Azerbaijan](https://abb-bank.az/) <br>
 🌐 Building with my team at [Shopery](https://github.com/shopery-app) <br>
 🚀 Passionate about building scalable and secure backend systems <br>
 🌱 Continuously improving my skills in Java, Spring Boot, and microservices <br>
